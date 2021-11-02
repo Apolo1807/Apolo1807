@@ -1,7 +1,7 @@
 
 # Hello,
 
-I'm Vitor Manoel, you're welcome on my person repository.
+I'm Vitor Manoel, you're welcome on my personal repository.
 
 
 ## 🛠 Skills
